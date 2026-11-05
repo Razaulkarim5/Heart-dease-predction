@@ -50,4 +50,4 @@ curl -X POST http://localhost:8000/predict \
 3. Language/Environment: **Docker**; root directory/build context: repo root.
 4. Deploy, then test `https://<your-service>.onrender.com/docs`.
 
-Live URL: _add your Render URL here_
+Live URL: https://heart-dease-predction.onrender.com/docs
